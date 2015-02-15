@@ -1,0 +1,2 @@
+# augury
+magic mod
